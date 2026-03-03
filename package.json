@@ -1,0 +1,10 @@
+{
+    "name": "sadiwala-project",
+    "version": "1.0.0",
+    "description": "Premium Hyperlocal Event Services Directory",
+    "scripts": {
+        "install-all": "npm install && npm install --prefix backend && npm install --prefix frontend",
+        "build": "npm run install-all && npm run build --prefix frontend",
+        "start": "npm start --prefix backend"
+    }
+}

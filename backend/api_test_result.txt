@@ -1,0 +1,2 @@
+STATUS: 200
+BODY: [{"startingPrice":{"amount":50000,"unit":"per day"},"contact":{"whatsapp":"7777777777","phone":"7777777777"},"_id":"69a597d849a26dab622d858e","businessName":"Capture Moments","category":"Photography","description":"Candid wedding photography and cinematography.","city":"New Delhi","address":"Vasant Vihar","images":["https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8"],"status":"approved","isVerified":true,"clerkId":"user_3","__v":0,"createdAt":"2026-03-02T13:59:52.156Z","updatedAt":"2026-03-02T13:59:52.156Z"}]

@@ -1,0 +1,11 @@
+STATUS: 404
+BODY: <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot PATCH /api/admin/vendors/69a597d849a26dab622d8590/status</pre>
+</body>
+</html>
