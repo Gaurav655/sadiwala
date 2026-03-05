@@ -9,7 +9,7 @@ function Navbar() {
     return (
         <nav className="p-6 flex justify-between items-center bg-white/50 backdrop-blur-md sticky top-0 z-50 border-b border-premium-gold/10">
             <Link to="/" className="text-3xl font-playfair font-bold text-premium-charcoal">
-                Sadi<span className="text-premium-gold">wala</span>.com
+                Sadi<span className="text-premium-gold">wala</span>
             </Link>
 
             <div className="hidden md:flex space-x-8 font-medium">

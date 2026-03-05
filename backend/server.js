@@ -27,7 +27,11 @@ mongoose.set('bufferCommands', false);
 const app = express();
 const PORT = process.env.PORT || 5000;
 
-app.use(cors());
+app.use(cors({
+    origin: process.env.FRONTEND_URL || '*',
+    methods: ['GET', 'POST', 'PATCH', 'DELETE', 'PUT'],
+    credentials: true
+}));
 app.use(express.json());
 
 // Debug Middleware: Log readyState on every request

@@ -37,3 +37,6 @@ startup_debug.log
 # Project specific
 sadiwala_project.zip
 Sadiwala_Project_Backup.zip
+.netlify/
+dist/
+.env.production

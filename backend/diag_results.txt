@@ -1,8 +1,0 @@
-DEEP DIAG START
-Attempting connection...
-CONNECTED
-Current DB: test
-Collections: vendors
-Vendor Count: 5
-Sample Vendor: Grand Palace Ballroom Status: approved
-DEEP DIAG END

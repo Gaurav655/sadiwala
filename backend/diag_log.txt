@@ -1,6 +1,0 @@
-DIAGNOSTIC START
-MONGODB_URI present: true
-Connecting...
-CONNECTED SUCCESS
-Vendor Count: 0
-DIAGNOSTIC END
